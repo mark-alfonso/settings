@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Colorsublime",
+		"Handlebars",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"Sass",
+		"SublimeCodeIntel",
+		"SublimeLinter-contrib-sublime-syntax",
+		"Vue Syntax Highlight"
+	]
+}
